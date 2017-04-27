@@ -1,0 +1,1195 @@
+{
+  "links": {
+    "alternate": [
+      {
+        "href": "https://familysearch.org/tree/person/L4TS-XGY/details"
+      }
+    ]
+  },
+  "description": "#SD-L4TS-XGY",
+  "persons": [
+    {
+      "id": "L4TS-XGY",
+      "sortKey": "0000000000",
+      "living": false,
+      "gender": {
+        "id": "a29ee816-0494-4634-abd6-52092bb6a350",
+        "attribution": {
+          "contributor": {
+            "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+            "resourceId": "MMF3-CSJ"
+          },
+          "modified": 1338636089269
+        },
+        "type": "http://gedcomx.org/Male",
+        "links": {
+          "conclusion": {
+            "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/conclusions/a29ee816-0494-4634-abd6-52092bb6a350"
+          }
+        }
+      },
+      "links": {
+        "spouses": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/spouses"
+        },
+        "change-history": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/changes"
+        },
+        "ancestry": {
+          "href": "https://familysearch.org/platform/tree/ancestry?person=L4TS-XGY"
+        },
+        "notes": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/notes"
+        },
+        "non-matches": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/not-a-match"
+        },
+        "portraits": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/portraits"
+        },
+        "ordinances": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/ordinances"
+        },
+        "collection": {
+          "href": "https://familysearch.org/platform/collections/tree"
+        },
+        "families": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/families?sourceDescriptions=true"
+        },
+        "portrait": {
+          "href": "https://raw.githubusercontent.com/joelcannon/reuze/master/people/L4TS-XGY/L4TS-XGY.jpg"
+        },
+        "matches": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/matches"
+        },
+        "children": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/children"
+        },
+        "descendancy": {
+          "href": "https://familysearch.org/platform/tree/descendancy?person=L4TS-XGY"
+        },
+        "person": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY?relatives=true&sourceDescriptions=true"
+        },
+        "source-descriptions": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/sources"
+        },
+        "merge": {
+          "template": "https://familysearch.org/platform/tree/persons/{pid}/merges/{dpid}{?access_token,filter}",
+          "type": "application/json,application/x-fs-v1+json,application/x-fs-v1+xml,application/xml,text/html",
+          "accept": "application/x-fs-v1+json,application/x-fs-v1+xml",
+          "allow": "OPTIONS,GET,POST",
+          "title": "Person Merge"
+        },
+        "ordinance-reservations": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/reservations"
+        },
+        "artifacts": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/memories"
+        },
+        "parents": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/parents"
+        }
+      },
+      "identifiers": {
+        "http://gedcomx.org/Persistent": [
+          "https://familysearch.org/ark:/61903/4:1:L4TS-XGY"
+        ]
+      },
+      "names": [
+        {
+          "id": "c021a888-c545-4387-97e2-ba355334502c",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1338636089269
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": true,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/conclusions/c021a888-c545-4387-97e2-ba355334502c"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "John Miller",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "John"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Miller"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMMM-MMC",
+              "resourceId": "MMMM-MMC"
+            },
+            "modified": 1395341203365
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": false,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/conclusions/0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "John Miller",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "John"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Miller"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "ddb21ddf-0042-4808-af3c-5b2e94e08922",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMMM-MM4",
+              "resourceId": "MMMM-MM4"
+            },
+            "modified": 1395341204728
+          },
+          "type": "http://gedcomx.org/Death",
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY/conclusions/ddb21ddf-0042-4808-af3c-5b2e94e08922"
+            }
+          }
+        }
+      ],
+      "display": {
+        "name": "John Miller",
+        "gender": "Male",
+        "lifespan": "Deceased",
+        "ascendancyNumber": "1",
+        "descendancyNumber": "1",
+        "familiesAsParent": [
+          {
+            "parent1": {
+              "resource": "https://raw.githubusercontent.com/joelcannon/reuze/master/people/L4TS-XGY/L4TS-XGY.json",
+              "resourceId": "L4TS-XGY"
+            },
+            "parent2": {
+              "resource": "https://raw.githubusercontent.com/joelcannon/reuze/master/people/L4TS-XTQ/L4TS-XTQ.json",
+              "resourceId": "L4TS-XTQ"
+            },
+            "children": [
+              {
+                "resource": "https://raw.githubusercontent.com/joelcannon/reuze/master/people/9773-414/9773-414.json",
+                "resourceId": "9773-414"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "L4TS-XTQ",
+      "sortKey": "0000000002",
+      "living": false,
+      "gender": {
+        "id": "a29ee816-0494-4634-abd6-52092bb6a350",
+        "attribution": {
+          "contributor": {
+            "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+            "resourceId": "MMF3-CSJ"
+          },
+          "modified": 1338683646896
+        },
+        "type": "http://gedcomx.org/Female",
+        "links": {
+          "conclusion": {
+            "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/conclusions/a29ee816-0494-4634-abd6-52092bb6a350"
+          }
+        }
+      },
+      "links": {
+        "parent-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/parent-relationships"
+        },
+        "spouses": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/spouses"
+        },
+        "change-history": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/changes"
+        },
+        "ancestry": {
+          "href": "https://familysearch.org/platform/tree/ancestry?person=L4TS-XTQ"
+        },
+        "notes": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/notes"
+        },
+        "non-matches": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/not-a-match"
+        },
+        "portraits": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/portraits"
+        },
+        "ordinances": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/ordinances"
+        },
+        "collection": {
+          "href": "https://familysearch.org/platform/collections/tree"
+        },
+        "families": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/families?sourceDescriptions=true"
+        },
+        "portrait": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/portrait"
+        },
+        "matches": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/matches"
+        },
+        "child-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/child-relationships"
+        },
+        "children": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/children"
+        },
+        "descendancy": {
+          "href": "https://familysearch.org/platform/tree/descendancy?person=L4TS-XTQ"
+        },
+        "person": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ?relatives=true&sourceDescriptions=true"
+        },
+        "source-descriptions": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/sources"
+        },
+        "merge": {
+          "template": "https://familysearch.org/platform/tree/persons/{pid}/merges/{dpid}{?access_token,filter}",
+          "type": "application/json,application/x-fs-v1+json,application/x-fs-v1+xml,application/xml,text/html",
+          "accept": "application/x-fs-v1+json,application/x-fs-v1+xml",
+          "allow": "OPTIONS,GET,POST",
+          "title": "Person Merge"
+        },
+        "spouse-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/spouse-relationships"
+        },
+        "ordinance-reservations": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/reservations"
+        },
+        "artifacts": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/memories"
+        },
+        "parents": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/parents"
+        }
+      },
+      "identifiers": {
+        "http://gedcomx.org/Persistent": [
+          "https://familysearch.org/ark:/61903/4:1:L4TS-XTQ"
+        ]
+      },
+      "names": [
+        {
+          "id": "c021a888-c545-4387-97e2-ba355334502c",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1338683646896
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": true,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/conclusions/c021a888-c545-4387-97e2-ba355334502c"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "Jane Tibbets",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "Jane"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Tibbets"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMMM-MMC",
+              "resourceId": "MMMM-MMC"
+            },
+            "modified": 1395341203365
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": false,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/conclusions/0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "Jane Tibbets",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "Jane"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Tibbets"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "ddb21ddf-0042-4808-af3c-5b2e94e08922",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMMM-MM4",
+              "resourceId": "MMMM-MM4"
+            },
+            "modified": 1395341204747
+          },
+          "type": "http://gedcomx.org/Death",
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ/conclusions/ddb21ddf-0042-4808-af3c-5b2e94e08922"
+            }
+          }
+        }
+      ],
+      "display": {
+        "name": "Jane Tibbets",
+        "gender": "Female",
+        "lifespan": "Deceased",
+        "familiesAsParent": [
+          {
+            "parent1": {
+              "resource": "#L4TS-XGY",
+              "resourceId": "L4TS-XGY"
+            },
+            "parent2": {
+              "resource": "#L4TS-XTQ",
+              "resourceId": "L4TS-XTQ"
+            },
+            "children": [
+              {
+                "resource": "#9773-414",
+                "resourceId": "9773-414"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9773-414",
+      "sortKey": "0000000003",
+      "living": false,
+      "gender": {
+        "id": "2cfdb7b2-1ede-4287-814b-3280139faea7",
+        "attribution": {
+          "contributor": {
+            "resource": "https://familysearch.org/platform/users/agents/MMWG-V3Y",
+            "resourceId": "MMWG-V3Y"
+          },
+          "modified": 1340088328889
+        },
+        "type": "http://gedcomx.org/Female",
+        "links": {
+          "conclusion": {
+            "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/2cfdb7b2-1ede-4287-814b-3280139faea7"
+          }
+        }
+      },
+      "links": {
+        "parent-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/parent-relationships"
+        },
+        "spouses": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/spouses"
+        },
+        "change-history": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/changes"
+        },
+        "ancestry": {
+          "href": "https://familysearch.org/platform/tree/ancestry?person=9773-414"
+        },
+        "notes": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/notes"
+        },
+        "non-matches": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/not-a-match"
+        },
+        "portraits": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/portraits"
+        },
+        "ordinances": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/ordinances"
+        },
+        "collection": {
+          "href": "https://familysearch.org/platform/collections/tree"
+        },
+        "families": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/families?sourceDescriptions=true"
+        },
+        "portrait": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/portrait"
+        },
+        "matches": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/matches"
+        },
+        "child-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/child-relationships"
+        },
+        "children": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/children"
+        },
+        "descendancy": {
+          "href": "https://familysearch.org/platform/tree/descendancy?person=9773-414"
+        },
+        "person": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "source-descriptions": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/sources"
+        },
+        "merge": {
+          "template": "https://familysearch.org/platform/tree/persons/{pid}/merges/{dpid}{?access_token,filter}",
+          "type": "application/json,application/x-fs-v1+json,application/x-fs-v1+xml,application/xml,text/html",
+          "accept": "application/x-fs-v1+json,application/x-fs-v1+xml",
+          "allow": "OPTIONS,GET,POST",
+          "title": "Person Merge"
+        },
+        "spouse-relationships": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/spouse-relationships"
+        },
+        "ordinance-reservations": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/reservations"
+        },
+        "artifacts": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/memories"
+        },
+        "parents": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414/parents"
+        }
+      },
+      "identifiers": {
+        "http://gedcomx.org/Persistent": [
+          "https://familysearch.org/ark:/61903/4:1:9773-414"
+        ]
+      },
+      "names": [
+        {
+          "id": "991a0a6e-291e-4f21-a0db-159dd32b100f",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1340088328889
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": true,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/991a0a6e-291e-4f21-a0db-159dd32b100f"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "Emma M Miller",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "Emma M"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Miller"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMWG-V3Y",
+              "resourceId": "MMWG-V3Y"
+            },
+            "modified": 1340088328889
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": false,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/0ca3ae4f-95c7-4dfa-bd6c-7be6d049400e"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "Emma Miller",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "Emma"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Miller"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "970ee2de-e481-4fa0-a7c8-bf4b3b3e24b7",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMMM-MMC",
+              "resourceId": "MMMM-MMC"
+            },
+            "modified": 1368304681395
+          },
+          "type": "http://gedcomx.org/BirthName",
+          "preferred": false,
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/970ee2de-e481-4fa0-a7c8-bf4b3b3e24b7"
+            }
+          },
+          "nameForms": [
+            {
+              "fullText": "Emma M Miller",
+              "parts": [
+                {
+                  "type": "http://gedcomx.org/Given",
+                  "value": "Emma M"
+                },
+                {
+                  "type": "http://gedcomx.org/Surname",
+                  "value": "Miller"
+                }
+              ],
+              "nameFormInfo": [
+                {
+                  "order": "http://familysearch.org/v1/Eurotypic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "facts": [
+        {
+          "id": "248eaba5-34ae-4182-9874-bfcc07166241",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1340088328889
+          },
+          "type": "http://gedcomx.org/Birth",
+          "date": {
+            "original": "16 April 1851",
+            "formal": "+1851-04-16",
+            "normalized": [
+              {
+                "lang": "en-US",
+                "value": "16 April 1851"
+              },
+              {
+                "value": "16 April 1851"
+              }
+            ]
+          },
+          "place": {
+            "original": "Iowa, United States",
+            "description": "#pd_42.000279x-93.50028",
+            "normalized": [
+              {
+                "lang": "en-US",
+                "value": "Iowa, United States"
+              },
+              {
+                "lang": "und",
+                "value": "Iowa, United States"
+              }
+            ]
+          },
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/248eaba5-34ae-4182-9874-bfcc07166241"
+            }
+          }
+        },
+        {
+          "id": "9381f219-2889-4bfc-9b03-5527232282c1",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1340088328889
+          },
+          "type": "http://gedcomx.org/Death",
+          "date": {
+            "original": "1 July 1936",
+            "formal": "+1936-07-01",
+            "normalized": [
+              {
+                "lang": "en-US",
+                "value": "1 July 1936"
+              },
+              {
+                "value": "1 July 1936"
+              }
+            ]
+          },
+          "place": {
+            "original": "Reno, Nevada"
+          },
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/9381f219-2889-4bfc-9b03-5527232282c1"
+            }
+          }
+        },
+        {
+          "id": "c5be31e4-c57a-417a-b672-456ec4e963d8",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1340088328889
+          },
+          "type": "http://gedcomx.org/Burial",
+          "place": {
+            "original": "Mount View cemetery Reno, Nevada, United States"
+          },
+          "links": {
+            "conclusion": {
+              "href": "https://familysearch.org/platform/tree/persons/9773-414/conclusions/c5be31e4-c57a-417a-b672-456ec4e963d8"
+            }
+          }
+        }
+      ],
+      "display": {
+        "name": "Emma M Miller",
+        "gender": "Female",
+        "lifespan": "1851-1936",
+        "birthDate": "16 April 1851",
+        "birthPlace": "Iowa, United States",
+        "deathDate": "1 July 1936",
+        "deathPlace": "Reno, Nevada",
+        "familiesAsParent": [
+          {
+            "parent1": {
+              "resource": "https://familysearch.org/ark:/61903/4:1:L4TM-PWG",
+              "resourceId": "L4TM-PWG"
+            },
+            "parent2": {
+              "resource": "#9773-414",
+              "resourceId": "9773-414"
+            },
+            "children": [
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:2777-QQJ",
+                "resourceId": "2777-QQJ"
+              },
+              {
+                "resource": "https://familysearch.org/ark:/61903/4:1:L6KD-KJZ",
+                "resourceId": "L6KD-KJZ"
+              }
+            ]
+          }
+        ],
+        "familiesAsChild": [
+          {
+            "parent1": {
+              "resource": "#L4TS-XGY",
+              "resourceId": "L4TS-XGY"
+            },
+            "parent2": {
+              "resource": "#L4TS-XTQ",
+              "resourceId": "L4TS-XTQ"
+            },
+            "children": [
+              {
+                "resource": "#9773-414",
+                "resourceId": "9773-414"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "id": "MD3D-4VY",
+      "sortKey": "0000000001",
+      "type": "http://gedcomx.org/Couple",
+      "person1": {
+        "resource": "#L4TS-XGY",
+        "resourceId": "L4TS-XGY"
+      },
+      "person2": {
+        "resource": "#L4TS-XTQ",
+        "resourceId": "L4TS-XTQ"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY?relatives=true&sourceDescriptions=true"
+        },
+        "woman": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ?relatives=true&sourceDescriptions=true"
+        },
+        "man": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/couple-relationships/MD3D-4VY"
+        }
+      }
+    },
+    {
+      "id": "MWRX-6YY",
+      "type": "http://gedcomx.org/Couple",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/L4TM-PWG",
+        "resourceId": "L4TM-PWG"
+      },
+      "person2": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        },
+        "woman": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "man": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/couple-relationships/MWRX-6YY"
+        }
+      },
+      "facts": [
+        {
+          "type": "http://gedcomx.org/Marriage",
+          "date": {
+            "original": "January 1870",
+            "formal": "+1870-01",
+            "normalized": [
+              {
+                "lang": "en-US",
+                "value": "January 1870"
+              },
+              {
+                "value": "January 1870"
+              }
+            ]
+          },
+          "place": {
+            "original": "Putnam Township, Fayette, Iowa, United States",
+            "description": "#pd_42.68722x-91.666669",
+            "normalized": [
+              {
+                "lang": "en-US",
+                "value": "Putnam Township, Fayette, Iowa, United States"
+              },
+              {
+                "lang": "und",
+                "value": "Putnam Township, Fayette, Iowa, United States"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "FMX5X-9HT",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#L4TS-XGY",
+        "resourceId": "L4TS-XGY"
+      },
+      "person2": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY?relatives=true&sourceDescriptions=true"
+        }
+      },
+      "identifiers": {
+        "http://familysearch.org/v1/ChildAndParentsRelationship": "https://familysearch.org/platform/tree/child-and-parents-relationships/MX5X-9HT"
+      }
+    },
+    {
+      "id": "MMX5X-9HT",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#L4TS-XTQ",
+        "resourceId": "L4TS-XTQ"
+      },
+      "person2": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ?relatives=true&sourceDescriptions=true"
+        }
+      },
+      "identifiers": {
+        "http://familysearch.org/v1/ChildAndParentsRelationship": "https://familysearch.org/platform/tree/child-and-parents-relationships/MX5X-9HT"
+      }
+    },
+    {
+      "id": "FMHYP-K6G",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/L4TM-PWG",
+        "resourceId": "L4TM-PWG"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/2777-QQJ",
+        "resourceId": "2777-QQJ"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/2777-QQJ?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MMHYP-K6G",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/2777-QQJ",
+        "resourceId": "2777-QQJ"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/2777-QQJ?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "FMKRY-H1V",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "https://familysearch.org/platform/tree/persons/L4TM-PWG",
+        "resourceId": "L4TM-PWG"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/L6KD-KJZ",
+        "resourceId": "L6KD-KJZ"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/L6KD-KJZ?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MMKRY-H1V",
+      "type": "http://gedcomx.org/ParentChild",
+      "person1": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "person2": {
+        "resource": "https://familysearch.org/platform/tree/persons/L6KD-KJZ",
+        "resourceId": "L6KD-KJZ"
+      },
+      "links": {
+        "person2": {
+          "href": "https://familysearch.org/platform/tree/persons/L6KD-KJZ?relatives=true&sourceDescriptions=true"
+        },
+        "person1": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        }
+      }
+    }
+  ],
+  "sourceDescriptions": [
+    {
+      "id": "SD-L4TS-XGY",
+      "about": "#L4TS-XGY",
+      "componentOf": {
+        "description": "https://familysearch.org/platform/collections/tree"
+      },
+      "resourceType": "http://gedcomx.org/Person",
+      "modified": 1463897163000,
+      "version": "136831899639250000",
+      "links": {
+        "description": {
+          "href": "https://familysearch.org/platform/sources/descriptions/SD-L4TS-XGY"
+        }
+      },
+      "citations": [
+        {
+          "lang": "en",
+          "value": "\"Family Tree,\" database, <i>FamilySearch</i> (http://familysearch.org : modified 22 May 2016, 06:06), entry for John Miller(PID https://familysearch.org/ark:/61903/4:1:L4TS-XGY); contributed by various users."
+        }
+      ],
+      "titles": [
+        {
+          "value": "John Miller"
+        }
+      ],
+      "identifiers": {
+        "http://gedcomx.org/Persistent": [
+          "https://familysearch.org/ark:/61903/4:1:L4TS-XGY"
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "pd_42.000279x-93.50028",
+      "latitude": 42.000279,
+      "longitude": -93.50028,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Iowa, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Iowa, United States"
+        }
+      ]
+    },
+    {
+      "id": "pd_42.68722x-91.666669",
+      "latitude": 42.68722,
+      "longitude": -91.666669,
+      "names": [
+        {
+          "lang": "en-US",
+          "value": "Putnam Township, Fayette, Iowa, United States"
+        },
+        {
+          "lang": "und",
+          "value": "Putnam Township, Fayette, Iowa, United States"
+        }
+      ]
+    }
+  ],
+  "childAndParentsRelationships": [
+    {
+      "id": "MX5X-9HT",
+      "father": {
+        "resource": "#L4TS-XGY",
+        "resourceId": "L4TS-XGY"
+      },
+      "mother": {
+        "resource": "#L4TS-XTQ",
+        "resourceId": "L4TS-XTQ"
+      },
+      "child": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XTQ?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TS-XGY?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MX5X-9HT"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        }
+      },
+      "identifiers": {
+        "http://gedcomx.org/Primary": [
+          "https://familysearch.org/platform/tree/child-and-parents-relationships/MX5X-9HT"
+        ]
+      },
+      "fatherFacts": [
+        {
+          "id": "4ee16f4a-e4fb-43fe-a03d-d34cd333631f",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1336023954392
+          },
+          "type": "http://gedcomx.org/BiologicalParent"
+        }
+      ],
+      "motherFacts": [
+        {
+          "id": "ff640a2a-0d4a-463f-bfc5-d2385ae92bf3",
+          "attribution": {
+            "contributor": {
+              "resource": "https://familysearch.org/platform/users/agents/MMF3-CSJ",
+              "resourceId": "MMF3-CSJ"
+            },
+            "modified": 1336023954392
+          },
+          "type": "http://gedcomx.org/BiologicalParent"
+        }
+      ]
+    },
+    {
+      "id": "MHYP-K6G",
+      "father": {
+        "resource": "https://familysearch.org/platform/tree/persons/L4TM-PWG",
+        "resourceId": "L4TM-PWG"
+      },
+      "mother": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/2777-QQJ",
+        "resourceId": "2777-QQJ"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MHYP-K6G"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/2777-QQJ?relatives=true&sourceDescriptions=true"
+        }
+      }
+    },
+    {
+      "id": "MKRY-H1V",
+      "father": {
+        "resource": "https://familysearch.org/platform/tree/persons/L4TM-PWG",
+        "resourceId": "L4TM-PWG"
+      },
+      "mother": {
+        "resource": "#9773-414",
+        "resourceId": "9773-414"
+      },
+      "child": {
+        "resource": "https://familysearch.org/platform/tree/persons/L6KD-KJZ",
+        "resourceId": "L6KD-KJZ"
+      },
+      "links": {
+        "mother": {
+          "href": "https://familysearch.org/platform/tree/persons/9773-414?relatives=true&sourceDescriptions=true"
+        },
+        "father": {
+          "href": "https://familysearch.org/platform/tree/persons/L4TM-PWG?relatives=true&sourceDescriptions=true"
+        },
+        "relationship": {
+          "href": "https://familysearch.org/platform/tree/child-and-parents-relationships/MKRY-H1V"
+        },
+        "child": {
+          "href": "https://familysearch.org/platform/tree/persons/L6KD-KJZ?relatives=true&sourceDescriptions=true"
+        }
+      }
+    }
+  ]
+}
